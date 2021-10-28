@@ -2,6 +2,6 @@
 
 - 👀 I’m interested in Machine Learning
 
-- 🌱 I’m currently learning Deep Learning and Web-Dev
+- 🌱 I’m currently learning Deep Learning 
 
 - 📫 arpakizeh@gmail.com
